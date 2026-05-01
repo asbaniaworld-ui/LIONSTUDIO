@@ -1,0 +1,59 @@
+目标：删掉 GitHub 网页上错误的路径/文件，再用本文件夹内容作为「正确结构」重新推送。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+一、为什么要在网页上先删
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+若曾因 n8n / 误操作把「表达式字符串」当成了路径名，GitHub 上会出现奇怪的目录（例如名称以引号开头），
+甚至在 Windows 上 git clone 会失败。
+用下面任一方式清空或替换「main 上的错误内容」，再推送本快照即可。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+方式 A（推荐）：网页逐个删干净
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. 打开：https://github.com/asbaniaworld-ui/LIONSTUDIO
+2. 进入可疑文件夹（异常的 "dashboard、"data 等）
+3. 点开具体文件 → 右上角垃圾桶 Delete file → Commit
+4. 对文件夹需先删尽其下所有文件（GitHub Web 不能直接删空文件夹，清空后文件夹会消失）
+
+若条目太多，改用方式 B。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+方式 B：空提交 / 清空 main（会丢掉当前 main 的历史文件列表）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+在已安装 Git 的机器上（建议 Git Bash），进入本机「准备推送的根目录」（即拷贝了本 lion-studio 全部内容的文件夹）：
+
+  git clone https://github.com/asbaniaworld-ui/LIONSTUDIO.git lion-clean
+  cd lion-clean
+  git checkout --orphan temp-main
+  git rm -rf .
+  （把上一级 workflow\lion-studio\ 里的所有文件复制进 lion-clean）
+  git add -A
+  git commit -m "chore: reset repo with clean Pages layout"
+  git branch -D main
+  git branch -m main
+  git push -f origin main
+
+⚠️ 强推会覆盖远端 main；确认无他人依赖旧提交后再做。
+
+若 clone 在 Windows 上仍失败，说明远端仍有非法路径，只能先用方式 A 在网页删到能 clone 为止，
+或删库后新建同名空库再 push。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+方式 C：删库重建（最省事但丢 star/issue）
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Settings → Danger Zone → Delete this repository → 再新建 asbaniaworld-ui/LIONSTUDIO 空库，
+然后在本目录执行：
+
+  git init
+  git add -A
+  git commit -m "init: docs Pages + data/reports layout"
+  git branch -M main
+  git remote add origin https://github.com/asbaniaworld-ui/LIONSTUDIO.git
+  git push -u origin main
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+三、推送完成后
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Settings → Pages → Source：main，/docs
+2. n8n 环境变量：GITHUB_TOKEN、GH_PAGES_REPO=asbaniaworld-ui/LIONSTUDIO
+3. 运行工作流 Communication Research Trends Tracker[02].json，应更新 docs/index.html、data、database、reports
