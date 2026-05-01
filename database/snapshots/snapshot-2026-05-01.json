@@ -8,221 +8,224 @@
   "topThemes": [
     {
       "rank": 1,
-      "theme": "Emotion versus cognition content distinctions in supportive communication",
+      "theme": "Supportive message content theory: distinction between emotion-focused and cognition-focused support",
       "count": 1
     },
     {
       "rank": 2,
-      "theme": "Mediating mechanisms linking message content to well-being outcomes",
+      "theme": "Mediating mechanisms underlying supportive communication effectiveness",
       "count": 1
     },
     {
       "rank": 3,
-      "theme": "Theoretical differentiation of supportive message effectiveness",
+      "theme": "Psychological well-being outcomes of differentiated message content",
       "count": 1
     },
     {
       "rank": 4,
-      "theme": "misinformation correction and debunking effectiveness",
+      "theme": "Misinformation correction and its boundary conditions",
       "count": 1
     },
     {
       "rank": 5,
-      "theme": "psychological inoculation and self-affirmation in political belief updating",
+      "theme": "Signal Detection Theory as a framework for assessing information processing accuracy",
       "count": 1
     },
     {
       "rank": 6,
-      "theme": "signal detection theory as applied to political information processing",
+      "theme": "Psychological resistance and persuasion (self-affirmation theory) in political communication",
       "count": 1
     },
     {
       "rank": 7,
-      "theme": "Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals",
+      "theme": "Context-dependency of media effects across issue domains (war/conflict vs. immigration)",
       "count": 1
     },
     {
       "rank": 8,
-      "theme": "Symbolic communication and discursive construction of organizational identity",
+      "theme": "Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals",
       "count": 1
     },
     {
       "rank": 9,
-      "theme": "Resilience enactment through social media as a communicative practice",
+      "theme": "Resilience enactment as a communicative and symbolic practice in organizational contexts",
       "count": 1
     },
     {
       "rank": 10,
-      "theme": "Representational networks and networked communication flows in digital spaces",
+      "theme": "Representational networks and social media as sites for constructing organizational identity and legitimacy",
       "count": 1
     }
   ],
   "methodTrends": [
     {
-      "method": "unknown",
-      "count": 15,
-      "percentage": "33.3"
+      "method": "qualitative",
+      "count": 17,
+      "percentage": "37.8"
     },
     {
-      "method": "qualitative",
-      "count": 15,
-      "percentage": "33.3"
+      "method": "unknown",
+      "count": 16,
+      "percentage": "35.6"
     },
     {
       "method": "mixed methods",
-      "count": 9,
-      "percentage": "20.0"
-    },
-    {
-      "method": "quantitative",
-      "count": 5,
-      "percentage": "11.1"
+      "count": 7,
+      "percentage": "15.6"
     },
     {
       "method": "experimental",
-      "count": 1,
-      "percentage": "2.2"
+      "count": 3,
+      "percentage": "6.7"
+    },
+    {
+      "method": "quantitative",
+      "count": 2,
+      "percentage": "4.4"
     }
   ],
   "emergingTopics": [
-    "Emotion versus cognition content distinctions in supportive communication",
-    "Mediating mechanisms linking message content to well-being outcomes",
-    "Theoretical differentiation of supportive message effectiveness",
-    "misinformation correction and debunking effectiveness",
-    "psychological inoculation and self-affirmation in political belief updating",
-    "signal detection theory as applied to political information processing",
+    "Supportive message content theory: distinction between emotion-focused and cognition-focused support",
+    "Mediating mechanisms underlying supportive communication effectiveness",
+    "Psychological well-being outcomes of differentiated message content",
+    "Misinformation correction and its boundary conditions",
+    "Signal Detection Theory as a framework for assessing information processing accuracy",
+    "Psychological resistance and persuasion (self-affirmation theory) in political communication",
+    "Context-dependency of media effects across issue domains (war/conflict vs. immigration)",
     "Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals",
-    "Symbolic communication and discursive construction of organizational identity",
-    "Resilience enactment through social media as a communicative practice",
-    "Representational networks and networked communication flows in digital spaces",
-    "The intersection of organizational hybridity and crisis/adaptation communication",
-    "Help-seeking as communicative behavior and its impact on social perception",
-    "Competence attribution and impression management in organizational communication",
-    "Paradox of vulnerability: the tension between seeking assistance and maintaining professional image",
-    "Platformed violence and digital harassment",
-    "Conspiracy theories as performative action",
-    "Children's media as a flashpoint for moral panic",
-    "Online community formation and targeting",
-    "Affective and symbolic violence in networked spaces",
-    "Mediatization of organized crime and the construction of gang mythology in hybrid media systems",
-    "Cross-platform diffusion of stigmatizing narratives between legacy news media and algorithmically-driven social media",
-    "Cultural stickiness of deviant labels and the role of participatory digital culture in amplifying criminal stereotypes",
-    "Digital racism and coloniality in technology-facilitated violence",
-    "Marginalization of Global South perspectives in communication research",
-    "Intersectionality of race, ethnicity, and activism in digital harm",
-    "Digital gender performativity and the enactment of masculine domination through technology-mediated abuse",
-    "Boundary work between public/private intimacy and consent in networked image circulation",
-    "Ethnographic understanding of perpetrator rationalities and the social construction of image-based sexual violence",
-    "Affordance theory and digital materiality",
-    "State power, censorship and information control",
-    "Community formation and visibility under networked conditions",
+    "Resilience enactment as a communicative and symbolic practice in organizational contexts",
+    "Representational networks and social media as sites for constructing organizational identity and legitimacy",
+    "Help-seeking as communicative behavior that challenges competence perceptions",
+    "Organizational communication and the paradox of vulnerability and credibility in workplace interactions",
+    "Social perception theory applied to workplace communication strategies",
+    "Political communication and democratic engagement",
+    "Media effects and longitudinal panel analysis",
+    "Methodological rigor and causal inference in communication research",
+    "Online conspiracy theories as form of symbolic and platformed violence",
+    "Digital harassment campaigns and networked antagonism",
+    "Media rituals and the targeting of children's television as cultural symbols",
+    "Affective publics and participatory hate in digital communities",
+    "Platform governance and the amplification of conspiratorial harm",
+    "Mediatization of organized crime: How legacy and social media platforms co-construct and amplify criminal mythology and narratives about gangs",
+    "Cultural stickiness and memetic diffusion: Examining how simplified, stereotypical gang narratives persist and circulate across platforms through 'memetic monikers'",
+    "Platformed gatekeeping and discursive hybridization: The interplay between legacy news media logic and TikTok's participatory, remix culture in shaping public understandings of gang violence",
+    "Digital colonialism and racialized violence in the Global South",
+    "Technology-facilitated violence (TFV) as an extension of systemic racism",
+    "Activist resistance and digital security in conflict-affected regions",
+    "Gender performativity and digital media",
+    "Technology-facilitated gender-based violence",
+    "Perpetrator perspectives in image-based sexual abuse",
+    "Platform affordances and folklore: how users mythologize or construct folk narratives around platform features and constraints during states of exception",
+    "Internet shutdowns as biopolitical governance: state power, infrastructural control, and the spatial/platform-specific targeting of connectivity during civil unrest",
+    "Truth, epistemology, and visibility under digital censorship: the reconfiguration of knowledge, community belonging, and precarity in mediated environments during infrastructure blackouts",
     "Transnational digital hostility and participatory warfare",
-    "(Auto)netnographic methodology and researcher positionality",
-    "Construction and deconstruction of academic expertise in conflict zones",
-    "Offline-online violence continuum in contested territories",
-    "Digital media and political violence in the Global South",
-    "Platform governance and content moderation inconsistencies",
-    "Androcentric hegemony and patriarchal power structures in digital spaces",
-    "Marginalized identities and intersectional vulnerability in live-streaming communities",
-    "Platform governance and moral accountability in decentralized digital ecosystems",
-    "Visual self-documentation of political violence as a communicative strategy",
-    "The erosion of witnessing ethics through user-generated atrocity content",
-    "Memetic misogyny as implicit, polysemous, and ephemeral visual gender-based hate",
-    "Role of contextual factors in digital gender-based hate communication",
-    "Feminist semiotic analysis of multiplatform visual culture",
-    "Platform governance and content moderation",
-    "Historical memory and political violence",
-    "Normative frameworks in transnational digital regulation",
-    "Journalistic discourse and media framing of socio-technical phenomena",
-    "Critical discourse on Big Tech legitimacy, vulnerability, and institutional power",
-    "Artificial intelligence as a discursive object in economic and labor narratives",
-    "Mediated visibility and its reliance on visual dominance in digital environments",
-    "Disability, sensory difference and media practices of accessibility",
-    "The visual paradox of blind content creators navigating visually-oriented platforms",
+    "Deconstruction of academic expertise in conflict research",
+    "Netnographic/autoethnographic approaches to studying online-offline violence",
+    "Platform governance and content moderation discourse",
+    "Hegemonic masculinity and gendered power asymmetries in digital spaces",
+    "Marginalized streamer precarity and algorithmic (in)justice",
+    "Terrorism as self-documented spectacle and the weaponization of wearable media for political violence",
+    "Moral challenges of decentralized digital platforms in moderating and distributing extremist content",
+    "Erosion of traditional journalistic and ethical gatekeeping in the age of direct-to-audience atrocity footage",
+    "Memetic misogyny as a form of implicit, polysemous and ephemeral visual gender-based hate",
+    "Contextual factors and platform ecologies shaping meaning-making in digital hate communication",
+    "Barthesian mythologies and semiotic analysis of visual digital artifacts",
+    "Feminist ethnographic approaches to studying networked gender-based violence",
+    "The tension between humor/meme culture and misogyny in digital spaces",
+    "Platform governance and memory politics",
+    "Normative dislocation as a theoretical framework",
+    "Moderation failures and historical violence in electoral contexts",
+    "Digital methods and platform power in non-Western settings",
+    "Journalistic discourse and media framing of technology industry crises",
+    "Socio-technical imaginaries and the myth of Big Tech infallibility",
+    "Political economy of digital labor and tech sector restructuring",
+    "Mediated visibility and sensory hierarchies in digital platforms",
+    "Blindness, embodiment and accessibility in visually-dominant media environments",
+    "The paradox of visuality in participatory video cultures",
     "Algorithmic gender representation and bias in generative AI systems",
-    "Stereotype reproduction and reinforcement through computational media",
-    "Platform-level variation in AI-generated visual content and its societal implications",
-    "Neoliberal feminism and digital self-actualization",
-    "Intersectional allyship discourses on social media platforms",
-    "Platform capitalism and its shaping of feminist discourse",
-    "Selective avoidance and disconnective practices as mechanisms of digital political polarization",
-    "Fragmented public spheres and partisan echo chambers in non-Western Twitterspheres",
-    "Political incivility and block talk as boundary-drawing behaviors in networked counterpublics",
-    "Media effects beyond exposure metrics",
-    "Subjective appraisal and meaning-making in digital media use",
-    "Contextualized media experiences and well-being outcomes",
-    "Digital intimacy and parasocial relationships in creator-fan dynamics",
-    "Self-presentation and identity negotiation across platforms (Goffman's dramaturgy)",
-    "Platform affordances and comparative platform studies",
-    "Creative labor and the creator economy in crowdfunded music",
-    "Multi-platform identity management strategies",
-    "Epistemic power of generative AI in knowledge infrastructures",
-    "AI-centered platform convergence and its sociological implications",
-    "Critical theory of technology and algorithmic authority in media ecosystems",
-    "Algorithmic precarity and platform labor",
-    "Identity-based content creation and visibility strategies",
-    "Ethnoreligious marginality and sociopolitical contingency in digital spaces",
-    "Misinformation framing and problem definition",
-    "Critical re-evaluation of intervention strategies",
-    "Sociotechnical narratives in media studies",
-    "Platform governance and content moderation ethics",
-    "User vulnerability and trauma-informed media consumption",
-    "Affordances of social media for mental health discourse",
-    "Commodification of Black womanhood within neoliberal digital economies",
-    "Racework and performative intimacy in interracial relationships as racial labor",
-    "Platform-mediated identity construction and racial stereotype reproduction on TikTok",
-    "Digital religion and religious authority reconfiguration",
-    "Influencer culture and everyday religiosity",
-    "Networked publics and liquid identity formation",
-    "Intersectional online harassment and political silencing",
-    "Compounded marginalization at the nexus of religious and gender identities",
-    "Perceived costs of political engagement as a mechanism of democratic deterrence",
-    "Negative campaigning dynamics in digital political communication",
-    "Platform-specific variations in political messaging strategies",
-    "Longitudinal analysis of supply-side and demand-side factors in electoral discourse",
+    "Sociotechnical reproduction of gender stereotypes through AI mediation",
+    "Platform-level variation in AI fairness and diversity of outputs",
+    "Intersectional feminist theory and digital activism",
+    "Neoliberal self-actualization discourse in algorithmic platform economies",
+    "Critical discourse analysis of allyship performances on social media",
+    "Digital disconnection and selective avoidance as political practices",
+    "Platform-mediated political polarization and public sphere fragmentation",
+    "Cross-cultural dynamics of incivility and partisanship on social media",
+    "Subjective appraisal and contextual meaning-making in media effects research",
+    "The role of social media in sleep health and well-being",
+    "Everyday media practices and temporal dimensions of technology use",
+    "Digital intimacy and parasocial relationships in creator-audience dynamics",
+    "Platform-specific self-presentation strategies and identity negotiation across media",
+    "Monetization of creative labor through crowdfunding and patronage economies",
+    "Epistemic power and knowledge structuring by generative AI",
+    "AI-centered platform convergence and infrastructure integration",
+    "Sociological theory of technological authority and legitimacy",
+    "Human-machine communication and power dynamics",
+    "Critical analysis of AI as knowledge agents in digital ecosystems",
+    "Algorithmic precarity and platform governance in sociopolitical contexts",
+    "Ethnoreligious identity construction and visibility negotiation on social media",
+    "Content creator labor as adaptive, event-driven strategic practice",
+    "Problem framing theory and its consequences for policy/intervention design",
+    "Critical reexamination of misinformation discourse and dominant narratives",
+    "Sociological and systemic approaches to information disorders",
+    "Platform governance and accountability in mental health contexts",
+    "User responsibility and literacy in navigating sensitive content",
+    "Trauma-informed design and the dual-affordance of social media (support vs. retraumatization)",
+    "Commodification of identity and racialized bodies in digital economies",
+    "Intersectional racework and gendered labor in interracial relationships",
+    "Platform-mediated visibility of whiteness, respectability, and aspirational domesticity",
+    "Digital religion and networked religious authority (liquid authority in online Islamic spaces)",
+    "Everyday influencers vs. professional religious authorities in digital contexts",
+    "Youth religious identity formation and practice in new media environments",
+    "Intersectionality and compounded marginalization in online political spaces",
+    "Online harassment as a deterrent to political engagement",
+    "Religious and gender identity as intersecting axes of vulnerability in digital politics",
+    "Negative political campaigning strategies and their adaptation across digital platforms",
+    "Multi-platform political communication and temporal dynamics of campaign behavior",
+    "Supply-demand dynamics in political messaging and voter engagement",
     "Platform-mediated maternal subjectivity and digital victimhood",
-    "Affective labor and the commodification of pain in creator economies",
-    "Gendered performance of suffering on social media platforms",
-    "Media effects theories in mobile communication contexts",
-    "Digital technology and adolescent mental health/well-being",
-    "Stress-coping mechanisms and technology use (stress induction vs. stress buffering)",
-    "Justification frameworks and moral economy in media production",
-    "Accessibility as intersection of disability studies and game studies",
-    "Institutional logics and decision-making in creative industries",
-    "Corporate social responsibility versus financial viability in digital media",
-    "Parasocial romance and authentic emotional connection in human-AI/character interactions",
-    "Gendered performances of love and reciprocity in digital gameplay",
-    "Affect labor and emotional meaning-making through ludic narratives",
-    "Power and control dynamics in digital interfaces as sites of geopolitical struggle",
-    "The evolution from traditional search engines to AI-driven communication agents and its implications for interface governance",
-    "Restructuring of global communication power through platform control and interface design",
-    "Platform governance and algorithmic visibility as mechanisms of discursive control",
-    "Gender and censorship: the gendered policing of feminist speech on social media",
-    "Strategic negotiation: how content creators adapt feminist discourse to platform logics",
-    "Consumer socialization theory in digital environments (social media platforms as socialization agents)",
-    "Reverse intergenerational knowledge transfer (adolescents influencing family consumer behaviors via TikTok)",
-    "Algorithmic culture and platform-mediated learning (the 'For You' page as a pedagogical/curatorial mechanism)",
-    "Uncertainty reduction theory extension beyond interpersonal dyadic communication",
-    "Human-AI relational communication and socio-emotional dynamics",
-    "Collective/communal strategies for managing technological uncertainty",
-    "Digital identity construction and self-representation among underrepresented groups in STEM",
-    "Social media as counter-public space for stereotype resistance and community building",
-    "Visual rhetoric and vernacular creativity on short-form video platforms for professional identity work",
-    "Children's misinformation perception and credibility assessment",
-    "Age-related differences in digital media literacy and skepticism",
-    "Ethnographic and survey-based mapping of children's lived experiences with online falsehoods",
-    "News-Finds-Me perception and its democratic consequences",
-    "Media effects of educational interventions and corrective messages",
-    "Incidental versus intentional political learning in digital environments",
-    "Platformisation and platform politics in news production",
-    "Algorithmic curation and diversity attenuation in media ecosystems",
-    "Institutional isomorphism and erosion of journalistic distinctiveness across outlet types",
-    "AI literacy in communication pedagogy",
-    "Ethics education in emerging technologies",
-    "Curriculum innovation for digital communication",
-    "Human-centered communication in institutional contexts",
-    "Narrative and identity construction in organizational messaging",
-    "The role of empathy and relationality in mediated discourse"
+    "Affective labor and commodification of pain in creator economies",
+    "Gendered self-representation and platformed intimacy on social media",
+    "Media effects and psychological well-being: The theoretical tension between smartphones as stressors versus buffers, drawing on media effects theories to explain dual pathways of technology influence on adolescent mental health",
+    "Mobile communication and adolescent development: The role of smartphone use in shaping daily affective experiences and coping mechanisms during a formative developmental period",
+    "Ecological momentary assessment of digital media use: Applying intensive longitudinal methods to capture real-time, within-person relationships between smartphone behavior and psychological states",
+    "Institutional logics and moral economy in accessibility work",
+    "Disability studies and social inclusion in digital media industries",
+    "Organizational justification and decision-making under competing institutional pressures",
+    "Parasocial intimacy and affective bonds in human-AI/character interactions",
+    "Authenticity construction in mediated romantic relationships",
+    "Gender, agency, and emotional labor in digital gameplay cultures",
+    "Interface control as a site of geopolitical power in digital communication",
+    "Restructuring of communication power through algorithmic governance",
+    "Critical political economy of platform interfaces (search engines, social media, AI agents)",
+    "Platform visibility governance and algorithmic control",
+    "Feminist discourse navigation of gendered censorship",
+    "Digital labor and self-regulation of content creators",
+    "Consumer socialization theory",
+    "Reverse intergenerational influence",
+    "Social media as socialization agent",
+    "Uncertainty reduction theory extension beyond dyadic frameworks",
+    "Human-AI socio-emotional communication and relational dynamics",
+    "Communal coping strategies for technology-related ambiguity",
+    "Social media as identity construction and stereotype resistance",
+    "Visual space-making and platform affordances for marginalized groups",
+    "Feminist science communication and gender representation in digital spaces",
+    "Community building through short-form video content",
+    "Children's misinformation literacy and sense-making",
+    "Developmental reception and age-differentiated responses to false information",
+    "Digital media socialization and platform-based information veracity",
+    "News-Finds-Me perception and its implications for political knowledge acquisition",
+    "The role of metacognitive beliefs about information seeking in democratic citizenship",
+    "Intervention design and unintended consequences in media literacy education",
+    "Platformisation of news production and distribution",
+    "Erosion of topical diversity in digital news ecosystems",
+    "Comparative analysis of news outlet types under algorithmic curation",
+    "AI literacy and competency in communication education",
+    "Ethical frameworks for artificial intelligence in media/communication",
+    "Pedagogical approaches to emerging communication technologies",
+    "Humanistic approaches to communication and technology",
+    "User-centered design in mediated communication",
+    "The role of human agency in technological communication systems"
   ],
   "articles": [
     {
@@ -233,12 +236,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/00936502261426538?af=R",
       "keywords": "",
       "themes": [
-        "Emotion versus cognition content distinctions in supportive communication",
-        "Mediating mechanisms linking message content to well-being outcomes",
-        "Theoretical differentiation of supportive message effectiveness"
+        "Supportive message content theory: distinction between emotion-focused and cognition-focused support",
+        "Mediating mechanisms underlying supportive communication effectiveness",
+        "Psychological well-being outcomes of differentiated message content"
       ],
-      "method_type": "quantitative",
-      "core_question": "How do emotion and cognition content in supportive messages differentially affect recipients' well-being through distinct mediating mechanisms?",
+      "method_type": "unknown",
+      "core_question": "How do emotion content and cognition content in supportive messages differentially affect well-being outcomes, and what mediating mechanisms explain these effects?",
       "is_emerging_topic": true
     },
     {
@@ -249,12 +252,13 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/00936502261442623?af=R",
       "keywords": "",
       "themes": [
-        "misinformation correction and debunking effectiveness",
-        "psychological inoculation and self-affirmation in political belief updating",
-        "signal detection theory as applied to political information processing"
+        "Misinformation correction and its boundary conditions",
+        "Signal Detection Theory as a framework for assessing information processing accuracy",
+        "Psychological resistance and persuasion (self-affirmation theory) in political communication",
+        "Context-dependency of media effects across issue domains (war/conflict vs. immigration)"
       ],
-      "method_type": "unknown",
-      "core_question": "How do corrective information and self-affirmation interventions affect individuals' ability to accurately discriminate between true and false political claims across different contexts?",
+      "method_type": "experimental",
+      "core_question": "How do corrective information and self-affirmation interventions affect the accuracy with which individuals discriminate between true and false political claims, and what are their potential side-effects beyond accuracy gains?",
       "is_emerging_topic": true
     },
     {
@@ -266,13 +270,11 @@
       "keywords": "",
       "themes": [
         "Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals",
-        "Symbolic communication and discursive construction of organizational identity",
-        "Resilience enactment through social media as a communicative practice",
-        "Representational networks and networked communication flows in digital spaces",
-        "The intersection of organizational hybridity and crisis/adaptation communication"
+        "Resilience enactment as a communicative and symbolic practice in organizational contexts",
+        "Representational networks and social media as sites for constructing organizational identity and legitimacy"
       ],
-      "method_type": "mixed methods",
-      "core_question": "How do organizations pursuing multiple, often competing goals use social media communication to construct hybridity, build representational networks, and enact resilience?",
+      "method_type": "qualitative",
+      "core_question": "How do organizations pursuing multiple, often competing goals use social media communication to symbolically construct hybridity, enact resilience, and manage representational networks?",
       "is_emerging_topic": true
     },
     {
@@ -283,12 +285,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/00936502261428827?af=R",
       "keywords": "",
       "themes": [
-        "Help-seeking as communicative behavior and its impact on social perception",
-        "Competence attribution and impression management in organizational communication",
-        "Paradox of vulnerability: the tension between seeking assistance and maintaining professional image"
+        "Help-seeking as communicative behavior that challenges competence perceptions",
+        "Organizational communication and the paradox of vulnerability and credibility in workplace interactions",
+        "Social perception theory applied to workplace communication strategies"
       ],
-      "method_type": "quantitative",
-      "core_question": "How does direct versus indirect help-seeking in the workplace affect observers' perceptions of the help-seeker's competence?",
+      "method_type": "experimental",
+      "core_question": "How does direct versus indirect help-seeking in the workplace influence perceptions of the help-seeker's competence?",
       "is_emerging_topic": true
     },
     {
@@ -299,13 +301,13 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/00936502261430387?af=R",
       "keywords": "",
       "themes": [
-        "Social media effects on political engagement",
-        "Longitudinal methodology and causal inference in communication research",
-        "Reciprocal relationships between online expression and offline participation"
+        "Political communication and democratic engagement",
+        "Media effects and longitudinal panel analysis",
+        "Methodological rigor and causal inference in communication research"
       ],
       "method_type": "quantitative",
-      "core_question": "What is the longitudinal reciprocal relationship between social media use, political expression, and political participation, and do cross-lagged panel models adequately capture these dynamics?",
-      "is_emerging_topic": false
+      "core_question": "What do cross-lagged panel models (CLPM) actually reveal about the reciprocal causal relationships between social media use, political expression, and political participation over time?",
+      "is_emerging_topic": true
     },
     {
       "title": "The violence of online conspiracy theories",
@@ -315,14 +317,14 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251336431?af=R",
       "keywords": "",
       "themes": [
-        "Platformed violence and digital harassment",
-        "Conspiracy theories as performative action",
-        "Children's media as a flashpoint for moral panic",
-        "Online community formation and targeting",
-        "Affective and symbolic violence in networked spaces"
+        "Online conspiracy theories as form of symbolic and platformed violence",
+        "Digital harassment campaigns and networked antagonism",
+        "Media rituals and the targeting of children's television as cultural symbols",
+        "Affective publics and participatory hate in digital communities",
+        "Platform governance and the amplification of conspiratorial harm"
       ],
       "method_type": "unknown",
-      "core_question": "How do online conspiracy theory communities mobilize platformed violence through targeted harassment campaigns against children's media figures?",
+      "core_question": "How do online conspiracy theory communities organize and enact platformed violence through targeted harassment campaigns against cultural institutions such as children's television programming?",
       "is_emerging_topic": true
     },
     {
@@ -333,12 +335,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251338507?af=R",
       "keywords": "",
       "themes": [
-        "Mediatization of organized crime and the construction of gang mythology in hybrid media systems",
-        "Cross-platform diffusion of stigmatizing narratives between legacy news media and algorithmically-driven social media",
-        "Cultural stickiness of deviant labels and the role of participatory digital culture in amplifying criminal stereotypes"
+        "Mediatization of organized crime: How legacy and social media platforms co-construct and amplify criminal mythology and narratives about gangs",
+        "Cultural stickiness and memetic diffusion: Examining how simplified, stereotypical gang narratives persist and circulate across platforms through 'memetic monikers'",
+        "Platformed gatekeeping and discursive hybridization: The interplay between legacy news media logic and TikTok's participatory, remix culture in shaping public understandings of gang violence"
       ],
-      "method_type": "mixed methods",
-      "core_question": "How do gang-related myths and stigmatizing monikers circulate and become 'sticky' across Swedish legacy news media and TikTok, and what role do these platforms play in amplifying and perpetuating criminal stereotypes?",
+      "method_type": "unknown",
+      "core_question": "How do Swedish legacy news media and TikTok discursively construct and perpetuate mythologized narratives about gang members and criminal networks, and what mechanisms enable these 'sticky' gang myths to travel and persist across platforms?",
       "is_emerging_topic": true
     },
     {
@@ -349,12 +351,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251344286?af=R",
       "keywords": "",
       "themes": [
-        "Digital racism and coloniality in technology-facilitated violence",
-        "Marginalization of Global South perspectives in communication research",
-        "Intersectionality of race, ethnicity, and activism in digital harm"
+        "Digital colonialism and racialized violence in the Global South",
+        "Technology-facilitated violence (TFV) as an extension of systemic racism",
+        "Activist resistance and digital security in conflict-affected regions"
       ],
       "method_type": "qualitative",
-      "core_question": "How do racism and ethnicity shape the experiences of technology-facilitated violence among activists in Chocó, Colombia?",
+      "core_question": "How does technology-facilitated violence manifest along racial and ethnic lines for activists in Chocó, Colombia, a region in the Global South affected by armed conflict?",
       "is_emerging_topic": true
     },
     {
@@ -365,12 +367,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251356604?af=R",
       "keywords": "",
       "themes": [
-        "Digital gender performativity and the enactment of masculine domination through technology-mediated abuse",
-        "Boundary work between public/private intimacy and consent in networked image circulation",
-        "Ethnographic understanding of perpetrator rationalities and the social construction of image-based sexual violence"
+        "Gender performativity and digital media",
+        "Technology-facilitated gender-based violence",
+        "Perpetrator perspectives in image-based sexual abuse"
       ],
       "method_type": "qualitative",
-      "core_question": "How do perpetrators of image-based sexual abuse 'do gender' through their digital practices of non-consensual image creation, sharing, and threat-making?",
+      "core_question": "How is gender performatively enacted through the perpetration of image-based sexual abuse in digital contexts?",
       "is_emerging_topic": true
     },
     {
@@ -381,12 +383,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251357264?af=R",
       "keywords": "",
       "themes": [
-        "Affordance theory and digital materiality",
-        "State power, censorship and information control",
-        "Community formation and visibility under networked conditions"
+        "Platform affordances and folklore: how users mythologize or construct folk narratives around platform features and constraints during states of exception",
+        "Internet shutdowns as biopolitical governance: state power, infrastructural control, and the spatial/platform-specific targeting of connectivity during civil unrest",
+        "Truth, epistemology, and visibility under digital censorship: the reconfiguration of knowledge, community belonging, and precarity in mediated environments during infrastructure blackouts"
       ],
       "method_type": "qualitative",
-      "core_question": "How do Internet shutdowns in Sri Lanka reshape the perceived affordances of digital platforms in terms of truth, community, and visibility for affected populations?",
+      "core_question": "How do state-imposed Internet shutdowns in Sri Lanka reshape users' folk understandings of platform affordances, their relationship to truth and community, and their conditions of visibility?",
       "is_emerging_topic": true
     },
     {
@@ -398,13 +400,11 @@
       "keywords": "",
       "themes": [
         "Transnational digital hostility and participatory warfare",
-        "(Auto)netnographic methodology and researcher positionality",
-        "Construction and deconstruction of academic expertise in conflict zones",
-        "Offline-online violence continuum in contested territories",
-        "Digital media and political violence in the Global South"
+        "Deconstruction of academic expertise in conflict research",
+        "Netnographic/autoethnographic approaches to studying online-offline violence"
       ],
       "method_type": "qualitative",
-      "core_question": "How is academic 'expertise' constructed and deconstructed through transnational digital hostility and participatory warfare in the context of offline and online violence in Somalia/Somaliland?",
+      "core_question": "How does transnational participatory warfare in the Somalia/Somaliland context (re)construct and challenge notions of academic 'expertise' in researching offline and online violence?",
       "is_emerging_topic": true
     },
     {
@@ -415,12 +415,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251370965?af=R",
       "keywords": "",
       "themes": [
-        "Platform governance and content moderation inconsistencies",
-        "Androcentric hegemony and patriarchal power structures in digital spaces",
-        "Marginalized identities and intersectional vulnerability in live-streaming communities"
+        "Platform governance and content moderation discourse",
+        "Hegemonic masculinity and gendered power asymmetries in digital spaces",
+        "Marginalized streamer precarity and algorithmic (in)justice"
       ],
       "method_type": "unknown",
-      "core_question": "How do Twitch's Terms of Service and Community Guidelines perpetuate androcentric hegemony and fail to protect marginalized streamers from harassment despite formal anti-discrimination policies?",
+      "core_question": "How do Twitch's Terms of Service and Community Guidelines function as instruments of contextual governance that reproduce androcentric hegemony, enabling the continued victimization of marginalized streamers while leaving harassers unpunished?",
       "is_emerging_topic": true
     },
     {
@@ -431,12 +431,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251370967?af=R",
       "keywords": "",
       "themes": [
-        "Platform governance and moral accountability in decentralized digital ecosystems",
-        "Visual self-documentation of political violence as a communicative strategy",
-        "The erosion of witnessing ethics through user-generated atrocity content"
+        "Terrorism as self-documented spectacle and the weaponization of wearable media for political violence",
+        "Moral challenges of decentralized digital platforms in moderating and distributing extremist content",
+        "Erosion of traditional journalistic and ethical gatekeeping in the age of direct-to-audience atrocity footage"
       ],
-      "method_type": "unknown",
-      "core_question": "How do self-documented terrorist attacks on decentralized digital platforms challenge existing moral frameworks for witnessing and governing violent content?",
+      "method_type": "qualitative",
+      "core_question": "How does the self-documentation of atrocities by terrorist actors via decentralized digital platforms challenge existing moral and ethical frameworks for content moderation and witnessing?",
       "is_emerging_topic": true
     },
     {
@@ -447,12 +447,14 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251396942?af=R",
       "keywords": "",
       "themes": [
-        "Memetic misogyny as implicit, polysemous, and ephemeral visual gender-based hate",
-        "Role of contextual factors in digital gender-based hate communication",
-        "Feminist semiotic analysis of multiplatform visual culture"
+        "Memetic misogyny as a form of implicit, polysemous and ephemeral visual gender-based hate",
+        "Contextual factors and platform ecologies shaping meaning-making in digital hate communication",
+        "Barthesian mythologies and semiotic analysis of visual digital artifacts",
+        "Feminist ethnographic approaches to studying networked gender-based violence",
+        "The tension between humor/meme culture and misogyny in digital spaces"
       ],
-      "method_type": "mixed methods",
-      "core_question": "How do contextual factors shape the meaning and operation of memetic misogyny across multiple digital platforms?",
+      "method_type": "unknown",
+      "core_question": "How do contextual factors across digital platforms shape the mythologies, meaning-making, and discursive power of memetic misogyny as a form of implicit visual gender-based hate?",
       "is_emerging_topic": true
     },
     {
@@ -463,12 +465,13 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448251364814?af=R",
       "keywords": "",
       "themes": [
-        "Platform governance and content moderation",
-        "Historical memory and political violence",
-        "Normative frameworks in transnational digital regulation"
+        "Platform governance and memory politics",
+        "Normative dislocation as a theoretical framework",
+        "Moderation failures and historical violence in electoral contexts",
+        "Digital methods and platform power in non-Western settings"
       ],
       "method_type": "mixed methods",
-      "core_question": "How does platform moderation during electoral periods fail to account for local histories of political violence, and what form of normative dislocation results from this memory-less moderation?",
+      "core_question": "How does platform moderation during Brazil's 2022 presidential elections produce normative dislocation by failing to account for local histories of political violence?",
       "is_emerging_topic": true
     },
     {
@@ -479,12 +482,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261437808?af=R",
       "keywords": "",
       "themes": [
-        "Journalistic discourse and media framing of socio-technical phenomena",
-        "Critical discourse on Big Tech legitimacy, vulnerability, and institutional power",
-        "Artificial intelligence as a discursive object in economic and labor narratives"
+        "Journalistic discourse and media framing of technology industry crises",
+        "Socio-technical imaginaries and the myth of Big Tech infallibility",
+        "Political economy of digital labor and tech sector restructuring"
       ],
       "method_type": "unknown",
-      "core_question": "How does journalistic discourse construct the relationship between the 2023–2024 tech industry mass layoffs and the rise of artificial intelligence?",
+      "core_question": "How does American journalistic discourse construct and make sense of the relationship between Big Tech mass layoffs (2023-2024) and the rise of artificial intelligence?",
       "is_emerging_topic": true
     },
     {
@@ -495,12 +498,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261437810?af=R",
       "keywords": "",
       "themes": [
-        "Mediated visibility and its reliance on visual dominance in digital environments",
-        "Disability, sensory difference and media practices of accessibility",
-        "The visual paradox of blind content creators navigating visually-oriented platforms"
+        "Mediated visibility and sensory hierarchies in digital platforms",
+        "Blindness, embodiment and accessibility in visually-dominant media environments",
+        "The paradox of visuality in participatory video cultures"
       ],
       "method_type": "qualitative",
-      "core_question": "How do blind vloggers on short-video platforms navigate and negotiate the visual paradox of seeking mediated visibility within a visually dominant communication environment?",
+      "core_question": "How do blind vloggers navigate and negotiate the visual paradox of mediated visibility on short-video platforms that are inherently visually dominant?",
       "is_emerging_topic": true
     },
     {
@@ -512,11 +515,11 @@
       "keywords": "",
       "themes": [
         "Algorithmic gender representation and bias in generative AI systems",
-        "Stereotype reproduction and reinforcement through computational media",
-        "Platform-level variation in AI-generated visual content and its societal implications"
+        "Sociotechnical reproduction of gender stereotypes through AI mediation",
+        "Platform-level variation in AI fairness and diversity of outputs"
       ],
       "method_type": "unknown",
-      "core_question": "How do three popular text-to-image generative AI platforms (DALL·E, Midjourney, and Stable Diffusion) underrepresent women and reproduce stereotypical gender portrayals in their generated images?",
+      "core_question": "To what extent do popular text-to-image generative AI platforms underrepresent women and perpetuate gender stereotypes in their outputs?",
       "is_emerging_topic": true
     },
     {
@@ -527,12 +530,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261441871?af=R",
       "keywords": "",
       "themes": [
-        "Neoliberal feminism and digital self-actualization",
-        "Intersectional allyship discourses on social media platforms",
-        "Platform capitalism and its shaping of feminist discourse"
+        "Intersectional feminist theory and digital activism",
+        "Neoliberal self-actualization discourse in algorithmic platform economies",
+        "Critical discourse analysis of allyship performances on social media"
       ],
       "method_type": "unknown",
-      "core_question": "How do popular intersectional allyship discourses in contemporary digital feminism align with the neoliberal ethos of self-actualizing encouraged by capitalist social media platforms?",
+      "core_question": "How do popular intersectional allyship discourses in contemporary digital feminism align with the neoliberal ethos of self-actualization encouraged by capitalist social media platforms?",
       "is_emerging_topic": true
     },
     {
@@ -543,12 +546,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261433479?af=R",
       "keywords": "",
       "themes": [
-        "Selective avoidance and disconnective practices as mechanisms of digital political polarization",
-        "Fragmented public spheres and partisan echo chambers in non-Western Twitterspheres",
-        "Political incivility and block talk as boundary-drawing behaviors in networked counterpublics"
+        "Digital disconnection and selective avoidance as political practices",
+        "Platform-mediated political polarization and public sphere fragmentation",
+        "Cross-cultural dynamics of incivility and partisanship on social media"
       ],
       "method_type": "mixed methods",
-      "core_question": "How do disconnective behaviors such as block talk, selective avoidance, and political incivility contribute to partisan polarization and fragmentation of the public sphere on Persian Twitter?",
+      "core_question": "How do disconnective behaviors such as block talk and selective avoidance contribute to partisan polarization and fragmentation of the public sphere on Persian Twitter?",
       "is_emerging_topic": true
     },
     {
@@ -559,12 +562,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261443637?af=R",
       "keywords": "",
       "themes": [
-        "Media effects beyond exposure metrics",
-        "Subjective appraisal and meaning-making in digital media use",
-        "Contextualized media experiences and well-being outcomes"
+        "Subjective appraisal and contextual meaning-making in media effects research",
+        "The role of social media in sleep health and well-being",
+        "Everyday media practices and temporal dimensions of technology use"
       ],
-      "method_type": "qualitative",
-      "core_question": "How do individuals subjectively appraise and make sense of their evening social media use in context, and how does this subjective experience differ from what exposure-based measures capture?",
+      "method_type": "mixed methods",
+      "core_question": "How do individuals subjectively appraise and make sense of their evening social media use in context, beyond mere exposure measures?",
       "is_emerging_topic": true
     },
     {
@@ -575,14 +578,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261444346?af=R",
       "keywords": "",
       "themes": [
-        "Digital intimacy and parasocial relationships in creator-fan dynamics",
-        "Self-presentation and identity negotiation across platforms (Goffman's dramaturgy)",
-        "Platform affordances and comparative platform studies",
-        "Creative labor and the creator economy in crowdfunded music",
-        "Multi-platform identity management strategies"
+        "Digital intimacy and parasocial relationships in creator-audience dynamics",
+        "Platform-specific self-presentation strategies and identity negotiation across media",
+        "Monetization of creative labor through crowdfunding and patronage economies"
       ],
-      "method_type": "unknown",
-      "core_question": "How do music content creators and musicians negotiate their online identities across Patreon and YouTube to cultivate digital intimacy with fans?",
+      "method_type": "qualitative",
+      "core_question": "How do music content creators negotiate and adapt their self-presentation strategies across Patreon and YouTube to cultivate digital intimacy with their fan bases?",
       "is_emerging_topic": true
     },
     {
@@ -593,12 +594,14 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261441417?af=R",
       "keywords": "",
       "themes": [
-        "Epistemic power of generative AI in knowledge infrastructures",
-        "AI-centered platform convergence and its sociological implications",
-        "Critical theory of technology and algorithmic authority in media ecosystems"
+        "Epistemic power and knowledge structuring by generative AI",
+        "AI-centered platform convergence and infrastructure integration",
+        "Sociological theory of technological authority and legitimacy",
+        "Human-machine communication and power dynamics",
+        "Critical analysis of AI as knowledge agents in digital ecosystems"
       ],
-      "method_type": "unknown",
-      "core_question": "How does generative AI exercise epistemic power as it becomes embedded within converging platform infrastructures and knowledge systems?",
+      "method_type": "qualitative",
+      "core_question": "How does generative AI acquire and exercise epistemic power within the context of AI-centered platform convergence as these systems become increasingly embedded in knowledge infrastructures?",
       "is_emerging_topic": true
     },
     {
@@ -609,12 +612,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261446580?af=R",
       "keywords": "",
       "themes": [
-        "Algorithmic precarity and platform labor",
-        "Identity-based content creation and visibility strategies",
-        "Ethnoreligious marginality and sociopolitical contingency in digital spaces"
+        "Algorithmic precarity and platform governance in sociopolitical contexts",
+        "Ethnoreligious identity construction and visibility negotiation on social media",
+        "Content creator labor as adaptive, event-driven strategic practice"
       ],
       "method_type": "qualitative",
-      "core_question": "How do ethnoreligious content creators navigate algorithmic visibility on Instagram in response to shifting offline sociopolitical conditions?",
+      "core_question": "How do ethnoreligious content creators strategically navigate algorithmic visibility on Instagram in response to shifting offline sociopolitical precarities?",
       "is_emerging_topic": true
     },
     {
@@ -625,12 +628,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261428635?af=R",
       "keywords": "",
       "themes": [
-        "Misinformation framing and problem definition",
-        "Critical re-evaluation of intervention strategies",
-        "Sociotechnical narratives in media studies"
+        "Problem framing theory and its consequences for policy/intervention design",
+        "Critical reexamination of misinformation discourse and dominant narratives",
+        "Sociological and systemic approaches to information disorders"
       ],
       "method_type": "unknown",
-      "core_question": "How does reframing the problem of misinformation alter the range and nature of possible solutions?",
+      "core_question": "How does reframing the problem of misinformation as a contested, socially constructed phenomenon alter the range and legitimacy of possible solutions?",
       "is_emerging_topic": true
     },
     {
@@ -641,12 +644,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261435958?af=R",
       "keywords": "",
       "themes": [
-        "Platform governance and content moderation ethics",
-        "User vulnerability and trauma-informed media consumption",
-        "Affordances of social media for mental health discourse"
+        "Platform governance and accountability in mental health contexts",
+        "User responsibility and literacy in navigating sensitive content",
+        "Trauma-informed design and the dual-affordance of social media (support vs. retraumatization)"
       ],
       "method_type": "mixed methods",
-      "core_question": "How do social media platforms balance user responsibility and platform accountability when users consume mental illness-related content that may be affirming or (re)traumatizing?",
+      "core_question": "How should the balance between user responsibility and platform accountability be understood when users consume mental illness-related content that may be both affirming and (re)traumatizing on social media?",
       "is_emerging_topic": true
     },
     {
@@ -657,12 +660,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261435122?af=R",
       "keywords": "",
       "themes": [
-        "Commodification of Black womanhood within neoliberal digital economies",
-        "Racework and performative intimacy in interracial relationships as racial labor",
-        "Platform-mediated identity construction and racial stereotype reproduction on TikTok"
+        "Commodification of identity and racialized bodies in digital economies",
+        "Intersectional racework and gendered labor in interracial relationships",
+        "Platform-mediated visibility of whiteness, respectability, and aspirational domesticity"
       ],
       "method_type": "qualitative",
-      "core_question": "How do Black Wife Effect TikTok posts construct and commodify Black womanhood through racialized makeover narratives and racework performed by interracial couples?",
+      "core_question": "How do Black Wife Effect TikTok posts discursively and visually construct Black womanhood as a commodifiable resource that performs racework for white male partners within the attention economy?",
       "is_emerging_topic": true
     },
     {
@@ -673,12 +676,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261436035?af=R",
       "keywords": "",
       "themes": [
-        "Digital religion and religious authority reconfiguration",
-        "Influencer culture and everyday religiosity",
-        "Networked publics and liquid identity formation"
+        "Digital religion and networked religious authority (liquid authority in online Islamic spaces)",
+        "Everyday influencers vs. professional religious authorities in digital contexts",
+        "Youth religious identity formation and practice in new media environments"
       ],
       "method_type": "qualitative",
-      "core_question": "How do everyday Muslim influencers on digital platforms reshape religious authority and credibility in the practice of young Muslims?",
+      "core_question": "How do everyday digital influencers reshape religious authority, credibility, and religious practice for young Muslims in networked online spaces?",
       "is_emerging_topic": true
     },
     {
@@ -689,12 +692,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261430019?af=R",
       "keywords": "",
       "themes": [
-        "Intersectional online harassment and political silencing",
-        "Compounded marginalization at the nexus of religious and gender identities",
-        "Perceived costs of political engagement as a mechanism of democratic deterrence"
+        "Intersectionality and compounded marginalization in online political spaces",
+        "Online harassment as a deterrent to political engagement",
+        "Religious and gender identity as intersecting axes of vulnerability in digital politics"
       ],
-      "method_type": "quantitative",
-      "core_question": "How do religious and gender identities intersect to shape experiences of online harassment and the perceived physical, social, and emotional costs of political engagement on social media?",
+      "method_type": "unknown",
+      "core_question": "How do religious and gender identities intersect to shape experiences of online harassment and the perceived costs of political engagement on social media?",
       "is_emerging_topic": true
     },
     {
@@ -705,12 +708,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261430714?af=R",
       "keywords": "",
       "themes": [
-        "Negative campaigning dynamics in digital political communication",
-        "Platform-specific variations in political messaging strategies",
-        "Longitudinal analysis of supply-side and demand-side factors in electoral discourse"
+        "Negative political campaigning strategies and their adaptation across digital platforms",
+        "Multi-platform political communication and temporal dynamics of campaign behavior",
+        "Supply-demand dynamics in political messaging and voter engagement"
       ],
       "method_type": "unknown",
-      "core_question": "How has the supply and demand of negative campaigning by Norwegian political parties varied across Facebook, Instagram, and Twitter over the period 2013-2024?",
+      "core_question": "How does the supply of negative campaigning by political parties on social media platforms relate to the demand for such content over time?",
       "is_emerging_topic": true
     },
     {
@@ -722,11 +725,11 @@
       "keywords": "",
       "themes": [
         "Platform-mediated maternal subjectivity and digital victimhood",
-        "Affective labor and the commodification of pain in creator economies",
-        "Gendered performance of suffering on social media platforms"
+        "Affective labor and commodification of pain in creator economies",
+        "Gendered self-representation and platformed intimacy on social media"
       ],
       "method_type": "unknown",
-      "core_question": "How do mom creators on Xiaohongshu articulate maternal pain and reproductive suffering as a form of platform-mediated digital victimhood (victimized motherhood)?",
+      "core_question": "How do mom creators on Xiaohongshu articulate maternal pain and reproductive suffering as a form of digital victimhood, and what does this platform-mediated mode of maternal subjectivity reveal about the intersection of gendered experiences and the creator economy?",
       "is_emerging_topic": true
     },
     {
@@ -737,12 +740,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261438432?af=R",
       "keywords": "",
       "themes": [
-        "Media effects theories in mobile communication contexts",
-        "Digital technology and adolescent mental health/well-being",
-        "Stress-coping mechanisms and technology use (stress induction vs. stress buffering)"
+        "Media effects and psychological well-being: The theoretical tension between smartphones as stressors versus buffers, drawing on media effects theories to explain dual pathways of technology influence on adolescent mental health",
+        "Mobile communication and adolescent development: The role of smartphone use in shaping daily affective experiences and coping mechanisms during a formative developmental period",
+        "Ecological momentary assessment of digital media use: Applying intensive longitudinal methods to capture real-time, within-person relationships between smartphone behavior and psychological states"
       ],
       "method_type": "quantitative",
-      "core_question": "Is smartphone use stress-inducing or stress-buffering for adolescents when examined through real-time, in situ experience-sampling?",
+      "core_question": "Are smartphones stress-inducing or stress-buffering for adolescents when examined through the lens of daily, within-person experiences?",
       "is_emerging_topic": true
     },
     {
@@ -753,13 +756,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261439733?af=R",
       "keywords": "",
       "themes": [
-        "Justification frameworks and moral economy in media production",
-        "Accessibility as intersection of disability studies and game studies",
-        "Institutional logics and decision-making in creative industries",
-        "Corporate social responsibility versus financial viability in digital media"
+        "Institutional logics and moral economy in accessibility work",
+        "Disability studies and social inclusion in digital media industries",
+        "Organizational justification and decision-making under competing institutional pressures"
       ],
-      "method_type": "unknown",
-      "core_question": "How do game industry practitioners balance and justify spending on accessibility features for players with disabilities across moral, financial, and legal considerations?",
+      "method_type": "qualitative",
+      "core_question": "How do game industry practitioners discursively justify spending on accessibility by navigating tensions between moral imperatives, financial constraints, and legal compliance?",
       "is_emerging_topic": true
     },
     {
@@ -770,12 +772,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261434521?af=R",
       "keywords": "",
       "themes": [
-        "Parasocial romance and authentic emotional connection in human-AI/character interactions",
-        "Gendered performances of love and reciprocity in digital gameplay",
-        "Affect labor and emotional meaning-making through ludic narratives"
+        "Parasocial intimacy and affective bonds in human-AI/character interactions",
+        "Authenticity construction in mediated romantic relationships",
+        "Gender, agency, and emotional labor in digital gameplay cultures"
       ],
       "method_type": "qualitative",
-      "core_question": "How do players of otome games construct, articulate, and experience emotionally meaningful romantic relationships with fictional characters through gameplay narratives?",
+      "core_question": "How do players of otome games construct and articulate the meaning of emotionally authentic romantic relationships within a procedurally constrained digital narrative environment?",
       "is_emerging_topic": true
     },
     {
@@ -786,12 +788,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261437812?af=R",
       "keywords": "",
       "themes": [
-        "Power and control dynamics in digital interfaces as sites of geopolitical struggle",
-        "The evolution from traditional search engines to AI-driven communication agents and its implications for interface governance",
-        "Restructuring of global communication power through platform control and interface design"
+        "Interface control as a site of geopolitical power in digital communication",
+        "Restructuring of communication power through algorithmic governance",
+        "Critical political economy of platform interfaces (search engines, social media, AI agents)"
       ],
-      "method_type": "qualitative",
-      "core_question": "How does control over digital interfaces—specifically search engines, social media, and emerging AI agents—restructure global communication power and manifest as a dimension of geopolitical struggle?",
+      "method_type": "unknown",
+      "core_question": "How does control over digital interfaces (search engines, social media, AI agents) function as a form of global communication power and restructure geopolitical struggles?",
       "is_emerging_topic": true
     },
     {
@@ -802,9 +804,9 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261442092?af=R",
       "keywords": "",
       "themes": [
-        "Platform governance and algorithmic visibility as mechanisms of discursive control",
-        "Gender and censorship: the gendered policing of feminist speech on social media",
-        "Strategic negotiation: how content creators adapt feminist discourse to platform logics"
+        "Platform visibility governance and algorithmic control",
+        "Feminist discourse navigation of gendered censorship",
+        "Digital labor and self-regulation of content creators"
       ],
       "method_type": "qualitative",
       "core_question": "How do feminist content creators on Douyin navigate platform visibility, governance, and gendered censorship to disseminate feminist discourse?",
@@ -818,12 +820,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261443533?af=R",
       "keywords": "",
       "themes": [
-        "Consumer socialization theory in digital environments (social media platforms as socialization agents)",
-        "Reverse intergenerational knowledge transfer (adolescents influencing family consumer behaviors via TikTok)",
-        "Algorithmic culture and platform-mediated learning (the 'For You' page as a pedagogical/curatorial mechanism)"
+        "Consumer socialization theory",
+        "Reverse intergenerational influence",
+        "Social media as socialization agent"
       ],
       "method_type": "qualitative",
-      "core_question": "How do adolescents acquire consumer knowledge through TikTok and subsequently facilitate intergenerational consumer learning within their families?",
+      "core_question": "How do adolescents acquire consumer knowledge through TikTok and subsequently transfer that knowledge to their family members through reverse socialization processes?",
       "is_emerging_topic": true
     },
     {
@@ -834,9 +836,9 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261433959?af=R",
       "keywords": "",
       "themes": [
-        "Uncertainty reduction theory extension beyond interpersonal dyadic communication",
-        "Human-AI relational communication and socio-emotional dynamics",
-        "Collective/communal strategies for managing technological uncertainty"
+        "Uncertainty reduction theory extension beyond dyadic frameworks",
+        "Human-AI socio-emotional communication and relational dynamics",
+        "Communal coping strategies for technology-related ambiguity"
       ],
       "method_type": "mixed methods",
       "core_question": "How do users employ communal uncertainty reduction strategies to navigate uncertainty in human-AI socio-emotional relationships?",
@@ -850,12 +852,13 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261433481?af=R",
       "keywords": "",
       "themes": [
-        "Digital identity construction and self-representation among underrepresented groups in STEM",
-        "Social media as counter-public space for stereotype resistance and community building",
-        "Visual rhetoric and vernacular creativity on short-form video platforms for professional identity work"
+        "Social media as identity construction and stereotype resistance",
+        "Visual space-making and platform affordances for marginalized groups",
+        "Feminist science communication and gender representation in digital spaces",
+        "Community building through short-form video content"
       ],
-      "method_type": "mixed methods",
-      "core_question": "How do women in STEM use visual practices on TikTok to create space for themselves and challenge stereotypes while negotiating professional and gendered identities?",
+      "method_type": "unknown",
+      "core_question": "How do women in STEM use TikTok's visual and platform-specific features to create digital spaces that challenge gender stereotypes and construct counter-narratives about STEM identity?",
       "is_emerging_topic": true
     },
     {
@@ -866,12 +869,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261435124?af=R",
       "keywords": "",
       "themes": [
-        "Children's misinformation perception and credibility assessment",
-        "Age-related differences in digital media literacy and skepticism",
-        "Ethnographic and survey-based mapping of children's lived experiences with online falsehoods"
+        "Children's misinformation literacy and sense-making",
+        "Developmental reception and age-differentiated responses to false information",
+        "Digital media socialization and platform-based information veracity"
       ],
       "method_type": "mixed methods",
-      "core_question": "How do children aged 5–12 perceive, experience, and respond to misinformation on social media?",
+      "core_question": "How do children aged 5–12 years perceive, experience, and respond to perceived misinformation on social media?",
       "is_emerging_topic": true
     },
     {
@@ -882,12 +885,12 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261438455?af=R",
       "keywords": "",
       "themes": [
-        "News-Finds-Me perception and its democratic consequences",
-        "Media effects of educational interventions and corrective messages",
-        "Incidental versus intentional political learning in digital environments"
+        "News-Finds-Me perception and its implications for political knowledge acquisition",
+        "The role of metacognitive beliefs about information seeking in democratic citizenship",
+        "Intervention design and unintended consequences in media literacy education"
       ],
       "method_type": "experimental",
-      "core_question": "How do educational warnings designed to mitigate the News-Finds-Me perception influence political learning outcomes, and what are both the intended and unintended effects of such interventions?",
+      "core_question": "Can educational warnings about the News-Finds-Me perception reduce NFM beliefs and improve political learning, and do these interventions produce any unintended negative effects?",
       "is_emerging_topic": true
     },
     {
@@ -898,9 +901,9 @@
       "source": "https://journals.sagepub.com/doi/abs/10.1177/14614448261447138?af=R",
       "keywords": "",
       "themes": [
-        "Platformisation and platform politics in news production",
-        "Algorithmic curation and diversity attenuation in media ecosystems",
-        "Institutional isomorphism and erosion of journalistic distinctiveness across outlet types"
+        "Platformisation of news production and distribution",
+        "Erosion of topical diversity in digital news ecosystems",
+        "Comparative analysis of news outlet types under algorithmic curation"
       ],
       "method_type": "unknown",
       "core_question": "How does platformisation flatten topical diversity across different types of news outlets?",
@@ -914,12 +917,12 @@
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTRvUTJpOTFJMi1ySUU5d2UweHZGYUV0YjVjUVVCZGRrVlFhQTA2MmM5MFlTVXJCcVhSWXd0SW5wcFEzSGh5eFVsc1FlVGxFRVdEMVBJUmtlR2s2R2Uwbk1PWmFKb1ZWZ1piVWQ3aElMbVhGSndGRFNpSTJlVElUWFZ4N05RYWp0ZFc0cl9tMA?oc=5",
       "keywords": "",
       "themes": [
-        "AI literacy in communication pedagogy",
-        "Ethics education in emerging technologies",
-        "Curriculum innovation for digital communication"
+        "AI literacy and competency in communication education",
+        "Ethical frameworks for artificial intelligence in media/communication",
+        "Pedagogical approaches to emerging communication technologies"
       ],
-      "method_type": "qualitative",
-      "core_question": "How can an AI communication course effectively teach students both literacy and ethics in the context of emerging artificial intelligence technologies?",
+      "method_type": "unknown",
+      "core_question": "How can a formal course in AI communication equip students with both literacy skills and ethical frameworks for navigating artificial intelligence in communication practice?",
       "is_emerging_topic": true
     },
     {
@@ -930,12 +933,12 @@
       "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XVXRPZ1lOcXBqdHZZdkxHRUR0UUFVM3hta2xHN2JKcGtPckp4ZTlaWjBiTUdMTUpMWG5DRVZwbjRlMEt3RDZYWVZBN3RZTGVCd0cwOU94U1JQV2M?oc=5",
       "keywords": "",
       "themes": [
-        "Human-centered communication in institutional contexts",
-        "Narrative and identity construction in organizational messaging",
-        "The role of empathy and relationality in mediated discourse"
+        "Humanistic approaches to communication and technology",
+        "User-centered design in mediated communication",
+        "The role of human agency in technological communication systems"
       ],
       "method_type": "qualitative",
-      "core_question": "How does the concept of 'bringing the human in' function as a rhetorical and institutional strategy within organizational communication?",
+      "core_question": "How does incorporating humanistic perspectives into communication technologies shape our understanding of media and message design?",
       "is_emerging_topic": true
     },
     {
@@ -946,15 +949,15 @@
       "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WbWl6NWtLc01FQXptcEhpNGRTR29WY0htblRhaGNiVTJqXy0wb0xJN0NuRU56NFlMYjVoRS1ZNllqbm1CSHd0aDVIZ3lJSGMtMS1WdUpnaUlnRno3MjdXaWxySEw5TDVoUzlWLUlrZVlvZnQxdEhWMFFOZ24?oc=5",
       "keywords": "",
       "themes": [
-        "Career outcomes and professional trajectories of communication graduates",
-        "Institutional reputation and alumni achievement as markers of program effectiveness",
-        "Bridging academic training and industry success in media fields"
+        "Career trajectory and professional outcomes in communication and media disciplines",
+        "Institutional reputation and alumni achievement as indicators of program efficacy",
+        "Identity formation and professional socialization among communication graduates"
       ],
-      "method_type": "unknown",
-      "core_question": "How do alumni of communication and media studies programs achieve professional success?",
+      "method_type": "mixed methods",
+      "core_question": "How do alumni from communication and media studies programs achieve professional success and what does this reveal about program effectiveness?",
       "is_emerging_topic": false
     }
   ],
-  "report_zh": "# 本周新闻传播学研究前沿风向\n\n**分析时间**: 2026/5/1\n**文章总数**: 45\n\n## 一、热点主题排行\n\n1. Emotion versus cognition content distinctions in supportive communication (出现 1 次)\n2. Mediating mechanisms linking message content to well-being outcomes (出现 1 次)\n3. Theoretical differentiation of supportive message effectiveness (出现 1 次)\n4. misinformation correction and debunking effectiveness (出现 1 次)\n5. psychological inoculation and self-affirmation in political belief updating (出现 1 次)\n6. signal detection theory as applied to political information processing (出现 1 次)\n7. Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals (出现 1 次)\n8. Symbolic communication and discursive construction of organizational identity (出现 1 次)\n9. Resilience enactment through social media as a communicative practice (出现 1 次)\n10. Representational networks and networked communication flows in digital spaces (出现 1 次)\n\n## 二、新兴议题\n\n- Emotion versus cognition content distinctions in supportive communication\n- Mediating mechanisms linking message content to well-being outcomes\n- Theoretical differentiation of supportive message effectiveness\n- misinformation correction and debunking effectiveness\n- psychological inoculation and self-affirmation in political belief updating\n- signal detection theory as applied to political information processing\n- Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals\n- Symbolic communication and discursive construction of organizational identity\n- Resilience enactment through social media as a communicative practice\n- Representational networks and networked communication flows in digital spaces\n- The intersection of organizational hybridity and crisis/adaptation communication\n- Help-seeking as communicative behavior and its impact on social perception\n- Competence attribution and impression management in organizational communication\n- Paradox of vulnerability: the tension between seeking assistance and maintaining professional image\n- Platformed violence and digital harassment\n- Conspiracy theories as performative action\n- Children's media as a flashpoint for moral panic\n- Online community formation and targeting\n- Affective and symbolic violence in networked spaces\n- Mediatization of organized crime and the construction of gang mythology in hybrid media systems\n- Cross-platform diffusion of stigmatizing narratives between legacy news media and algorithmically-driven social media\n- Cultural stickiness of deviant labels and the role of participatory digital culture in amplifying criminal stereotypes\n- Digital racism and coloniality in technology-facilitated violence\n- Marginalization of Global South perspectives in communication research\n- Intersectionality of race, ethnicity, and activism in digital harm\n- Digital gender performativity and the enactment of masculine domination through technology-mediated abuse\n- Boundary work between public/private intimacy and consent in networked image circulation\n- Ethnographic understanding of perpetrator rationalities and the social construction of image-based sexual violence\n- Affordance theory and digital materiality\n- State power, censorship and information control\n- Community formation and visibility under networked conditions\n- Transnational digital hostility and participatory warfare\n- (Auto)netnographic methodology and researcher positionality\n- Construction and deconstruction of academic expertise in conflict zones\n- Offline-online violence continuum in contested territories\n- Digital media and political violence in the Global South\n- Platform governance and content moderation inconsistencies\n- Androcentric hegemony and patriarchal power structures in digital spaces\n- Marginalized identities and intersectional vulnerability in live-streaming communities\n- Platform governance and moral accountability in decentralized digital ecosystems\n- Visual self-documentation of political violence as a communicative strategy\n- The erosion of witnessing ethics through user-generated atrocity content\n- Memetic misogyny as implicit, polysemous, and ephemeral visual gender-based hate\n- Role of contextual factors in digital gender-based hate communication\n- Feminist semiotic analysis of multiplatform visual culture\n- Platform governance and content moderation\n- Historical memory and political violence\n- Normative frameworks in transnational digital regulation\n- Journalistic discourse and media framing of socio-technical phenomena\n- Critical discourse on Big Tech legitimacy, vulnerability, and institutional power\n- Artificial intelligence as a discursive object in economic and labor narratives\n- Mediated visibility and its reliance on visual dominance in digital environments\n- Disability, sensory difference and media practices of accessibility\n- The visual paradox of blind content creators navigating visually-oriented platforms\n- Algorithmic gender representation and bias in generative AI systems\n- Stereotype reproduction and reinforcement through computational media\n- Platform-level variation in AI-generated visual content and its societal implications\n- Neoliberal feminism and digital self-actualization\n- Intersectional allyship discourses on social media platforms\n- Platform capitalism and its shaping of feminist discourse\n- Selective avoidance and disconnective practices as mechanisms of digital political polarization\n- Fragmented public spheres and partisan echo chambers in non-Western Twitterspheres\n- Political incivility and block talk as boundary-drawing behaviors in networked counterpublics\n- Media effects beyond exposure metrics\n- Subjective appraisal and meaning-making in digital media use\n- Contextualized media experiences and well-being outcomes\n- Digital intimacy and parasocial relationships in creator-fan dynamics\n- Self-presentation and identity negotiation across platforms (Goffman's dramaturgy)\n- Platform affordances and comparative platform studies\n- Creative labor and the creator economy in crowdfunded music\n- Multi-platform identity management strategies\n- Epistemic power of generative AI in knowledge infrastructures\n- AI-centered platform convergence and its sociological implications\n- Critical theory of technology and algorithmic authority in media ecosystems\n- Algorithmic precarity and platform labor\n- Identity-based content creation and visibility strategies\n- Ethnoreligious marginality and sociopolitical contingency in digital spaces\n- Misinformation framing and problem definition\n- Critical re-evaluation of intervention strategies\n- Sociotechnical narratives in media studies\n- Platform governance and content moderation ethics\n- User vulnerability and trauma-informed media consumption\n- Affordances of social media for mental health discourse\n- Commodification of Black womanhood within neoliberal digital economies\n- Racework and performative intimacy in interracial relationships as racial labor\n- Platform-mediated identity construction and racial stereotype reproduction on TikTok\n- Digital religion and religious authority reconfiguration\n- Influencer culture and everyday religiosity\n- Networked publics and liquid identity formation\n- Intersectional online harassment and political silencing\n- Compounded marginalization at the nexus of religious and gender identities\n- Perceived costs of political engagement as a mechanism of democratic deterrence\n- Negative campaigning dynamics in digital political communication\n- Platform-specific variations in political messaging strategies\n- Longitudinal analysis of supply-side and demand-side factors in electoral discourse\n- Platform-mediated maternal subjectivity and digital victimhood\n- Affective labor and the commodification of pain in creator economies\n- Gendered performance of suffering on social media platforms\n- Media effects theories in mobile communication contexts\n- Digital technology and adolescent mental health/well-being\n- Stress-coping mechanisms and technology use (stress induction vs. stress buffering)\n- Justification frameworks and moral economy in media production\n- Accessibility as intersection of disability studies and game studies\n- Institutional logics and decision-making in creative industries\n- Corporate social responsibility versus financial viability in digital media\n- Parasocial romance and authentic emotional connection in human-AI/character interactions\n- Gendered performances of love and reciprocity in digital gameplay\n- Affect labor and emotional meaning-making through ludic narratives\n- Power and control dynamics in digital interfaces as sites of geopolitical struggle\n- The evolution from traditional search engines to AI-driven communication agents and its implications for interface governance\n- Restructuring of global communication power through platform control and interface design\n- Platform governance and algorithmic visibility as mechanisms of discursive control\n- Gender and censorship: the gendered policing of feminist speech on social media\n- Strategic negotiation: how content creators adapt feminist discourse to platform logics\n- Consumer socialization theory in digital environments (social media platforms as socialization agents)\n- Reverse intergenerational knowledge transfer (adolescents influencing family consumer behaviors via TikTok)\n- Algorithmic culture and platform-mediated learning (the 'For You' page as a pedagogical/curatorial mechanism)\n- Uncertainty reduction theory extension beyond interpersonal dyadic communication\n- Human-AI relational communication and socio-emotional dynamics\n- Collective/communal strategies for managing technological uncertainty\n- Digital identity construction and self-representation among underrepresented groups in STEM\n- Social media as counter-public space for stereotype resistance and community building\n- Visual rhetoric and vernacular creativity on short-form video platforms for professional identity work\n- Children's misinformation perception and credibility assessment\n- Age-related differences in digital media literacy and skepticism\n- Ethnographic and survey-based mapping of children's lived experiences with online falsehoods\n- News-Finds-Me perception and its democratic consequences\n- Media effects of educational interventions and corrective messages\n- Incidental versus intentional political learning in digital environments\n- Platformisation and platform politics in news production\n- Algorithmic curation and diversity attenuation in media ecosystems\n- Institutional isomorphism and erosion of journalistic distinctiveness across outlet types\n- AI literacy in communication pedagogy\n- Ethics education in emerging technologies\n- Curriculum innovation for digital communication\n- Human-centered communication in institutional contexts\n- Narrative and identity construction in organizational messaging\n- The role of empathy and relationality in mediated discourse\n\n## 三、方法趋势\n\n- unknown: 15 篇 (33.3%)\n- qualitative: 15 篇 (33.3%)\n- mixed methods: 9 篇 (20.0%)\n- quantitative: 5 篇 (11.1%)\n- experimental: 1 篇 (2.2%)\n\n## 四、综合趋势判断\n\n本周期研究明显向\"Emotion versus cognition content distinctions in supportive communication\"方向倾斜，Emotion versus cognition content distinctions in supportive communication成为核心驱动变量。\n\n---\n\n*本报告由 n8n 自动化系统生成*",
-  "report_en": "# 本周新闻传播学研究前沿风向\n\n**分析时间**: 2026/5/1\n**文章总数**: 45\n\n## 一、热点主题排行\n\n1. Emotion versus cognition content distinctions in supportive communication (出现 1 次)\n2. Mediating mechanisms linking message content to well-being outcomes (出现 1 次)\n3. Theoretical differentiation of supportive message effectiveness (出现 1 次)\n4. misinformation correction and debunking effectiveness (出现 1 次)\n5. psychological inoculation and self-affirmation in political belief updating (出现 1 次)\n6. signal detection theory as applied to political information processing (出现 1 次)\n7. Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals (出现 1 次)\n8. Symbolic communication and discursive construction of organizational identity (出现 1 次)\n9. Resilience enactment through social media as a communicative practice (出现 1 次)\n10. Representational networks and networked communication flows in digital spaces (出现 1 次)\n\n## 二、新兴议题\n\n- Emotion versus cognition content distinctions in supportive communication\n- Mediating mechanisms linking message content to well-being outcomes\n- Theoretical differentiation of supportive message effectiveness\n- misinformation correction and debunking effectiveness\n- psychological inoculation and self-affirmation in political belief updating\n- signal detection theory as applied to political information processing\n- Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals\n- Symbolic communication and discursive construction of organizational identity\n- Resilience enactment through social media as a communicative practice\n- Representational networks and networked communication flows in digital spaces\n- The intersection of organizational hybridity and crisis/adaptation communication\n- Help-seeking as communicative behavior and its impact on social perception\n- Competence attribution and impression management in organizational communication\n- Paradox of vulnerability: the tension between seeking assistance and maintaining professional image\n- Platformed violence and digital harassment\n- Conspiracy theories as performative action\n- Children's media as a flashpoint for moral panic\n- Online community formation and targeting\n- Affective and symbolic violence in networked spaces\n- Mediatization of organized crime and the construction of gang mythology in hybrid media systems\n- Cross-platform diffusion of stigmatizing narratives between legacy news media and algorithmically-driven social media\n- Cultural stickiness of deviant labels and the role of participatory digital culture in amplifying criminal stereotypes\n- Digital racism and coloniality in technology-facilitated violence\n- Marginalization of Global South perspectives in communication research\n- Intersectionality of race, ethnicity, and activism in digital harm\n- Digital gender performativity and the enactment of masculine domination through technology-mediated abuse\n- Boundary work between public/private intimacy and consent in networked image circulation\n- Ethnographic understanding of perpetrator rationalities and the social construction of image-based sexual violence\n- Affordance theory and digital materiality\n- State power, censorship and information control\n- Community formation and visibility under networked conditions\n- Transnational digital hostility and participatory warfare\n- (Auto)netnographic methodology and researcher positionality\n- Construction and deconstruction of academic expertise in conflict zones\n- Offline-online violence continuum in contested territories\n- Digital media and political violence in the Global South\n- Platform governance and content moderation inconsistencies\n- Androcentric hegemony and patriarchal power structures in digital spaces\n- Marginalized identities and intersectional vulnerability in live-streaming communities\n- Platform governance and moral accountability in decentralized digital ecosystems\n- Visual self-documentation of political violence as a communicative strategy\n- The erosion of witnessing ethics through user-generated atrocity content\n- Memetic misogyny as implicit, polysemous, and ephemeral visual gender-based hate\n- Role of contextual factors in digital gender-based hate communication\n- Feminist semiotic analysis of multiplatform visual culture\n- Platform governance and content moderation\n- Historical memory and political violence\n- Normative frameworks in transnational digital regulation\n- Journalistic discourse and media framing of socio-technical phenomena\n- Critical discourse on Big Tech legitimacy, vulnerability, and institutional power\n- Artificial intelligence as a discursive object in economic and labor narratives\n- Mediated visibility and its reliance on visual dominance in digital environments\n- Disability, sensory difference and media practices of accessibility\n- The visual paradox of blind content creators navigating visually-oriented platforms\n- Algorithmic gender representation and bias in generative AI systems\n- Stereotype reproduction and reinforcement through computational media\n- Platform-level variation in AI-generated visual content and its societal implications\n- Neoliberal feminism and digital self-actualization\n- Intersectional allyship discourses on social media platforms\n- Platform capitalism and its shaping of feminist discourse\n- Selective avoidance and disconnective practices as mechanisms of digital political polarization\n- Fragmented public spheres and partisan echo chambers in non-Western Twitterspheres\n- Political incivility and block talk as boundary-drawing behaviors in networked counterpublics\n- Media effects beyond exposure metrics\n- Subjective appraisal and meaning-making in digital media use\n- Contextualized media experiences and well-being outcomes\n- Digital intimacy and parasocial relationships in creator-fan dynamics\n- Self-presentation and identity negotiation across platforms (Goffman's dramaturgy)\n- Platform affordances and comparative platform studies\n- Creative labor and the creator economy in crowdfunded music\n- Multi-platform identity management strategies\n- Epistemic power of generative AI in knowledge infrastructures\n- AI-centered platform convergence and its sociological implications\n- Critical theory of technology and algorithmic authority in media ecosystems\n- Algorithmic precarity and platform labor\n- Identity-based content creation and visibility strategies\n- Ethnoreligious marginality and sociopolitical contingency in digital spaces\n- Misinformation framing and problem definition\n- Critical re-evaluation of intervention strategies\n- Sociotechnical narratives in media studies\n- Platform governance and content moderation ethics\n- User vulnerability and trauma-informed media consumption\n- Affordances of social media for mental health discourse\n- Commodification of Black womanhood within neoliberal digital economies\n- Racework and performative intimacy in interracial relationships as racial labor\n- Platform-mediated identity construction and racial stereotype reproduction on TikTok\n- Digital religion and religious authority reconfiguration\n- Influencer culture and everyday religiosity\n- Networked publics and liquid identity formation\n- Intersectional online harassment and political silencing\n- Compounded marginalization at the nexus of religious and gender identities\n- Perceived costs of political engagement as a mechanism of democratic deterrence\n- Negative campaigning dynamics in digital political communication\n- Platform-specific variations in political messaging strategies\n- Longitudinal analysis of supply-side and demand-side factors in electoral discourse\n- Platform-mediated maternal subjectivity and digital victimhood\n- Affective labor and the commodification of pain in creator economies\n- Gendered performance of suffering on social media platforms\n- Media effects theories in mobile communication contexts\n- Digital technology and adolescent mental health/well-being\n- Stress-coping mechanisms and technology use (stress induction vs. stress buffering)\n- Justification frameworks and moral economy in media production\n- Accessibility as intersection of disability studies and game studies\n- Institutional logics and decision-making in creative industries\n- Corporate social responsibility versus financial viability in digital media\n- Parasocial romance and authentic emotional connection in human-AI/character interactions\n- Gendered performances of love and reciprocity in digital gameplay\n- Affect labor and emotional meaning-making through ludic narratives\n- Power and control dynamics in digital interfaces as sites of geopolitical struggle\n- The evolution from traditional search engines to AI-driven communication agents and its implications for interface governance\n- Restructuring of global communication power through platform control and interface design\n- Platform governance and algorithmic visibility as mechanisms of discursive control\n- Gender and censorship: the gendered policing of feminist speech on social media\n- Strategic negotiation: how content creators adapt feminist discourse to platform logics\n- Consumer socialization theory in digital environments (social media platforms as socialization agents)\n- Reverse intergenerational knowledge transfer (adolescents influencing family consumer behaviors via TikTok)\n- Algorithmic culture and platform-mediated learning (the 'For You' page as a pedagogical/curatorial mechanism)\n- Uncertainty reduction theory extension beyond interpersonal dyadic communication\n- Human-AI relational communication and socio-emotional dynamics\n- Collective/communal strategies for managing technological uncertainty\n- Digital identity construction and self-representation among underrepresented groups in STEM\n- Social media as counter-public space for stereotype resistance and community building\n- Visual rhetoric and vernacular creativity on short-form video platforms for professional identity work\n- Children's misinformation perception and credibility assessment\n- Age-related differences in digital media literacy and skepticism\n- Ethnographic and survey-based mapping of children's lived experiences with online falsehoods\n- News-Finds-Me perception and its democratic consequences\n- Media effects of educational interventions and corrective messages\n- Incidental versus intentional political learning in digital environments\n- Platformisation and platform politics in news production\n- Algorithmic curation and diversity attenuation in media ecosystems\n- Institutional isomorphism and erosion of journalistic distinctiveness across outlet types\n- AI literacy in communication pedagogy\n- Ethics education in emerging technologies\n- Curriculum innovation for digital communication\n- Human-centered communication in institutional contexts\n- Narrative and identity construction in organizational messaging\n- The role of empathy and relationality in mediated discourse\n\n## 三、方法趋势\n\n- unknown: 15 篇 (33.3%)\n- qualitative: 15 篇 (33.3%)\n- mixed methods: 9 篇 (20.0%)\n- quantitative: 5 篇 (11.1%)\n- experimental: 1 篇 (2.2%)\n\n## 四、综合趋势判断\n\n本周期研究明显向\"Emotion versus cognition content distinctions in supportive communication\"方向倾斜，Emotion versus cognition content distinctions in supportive communication成为核心驱动变量。\n\n---\n\n*本报告由 n8n 自动化系统生成*"
+  "report_zh": "# 本周新闻传播学研究前沿风向\n\n**分析时间**: 2026/5/1\n**文章总数**: 45\n\n## 一、热点主题排行\n\n1. Supportive message content theory: distinction between emotion-focused and cognition-focused support (出现 1 次)\n2. Mediating mechanisms underlying supportive communication effectiveness (出现 1 次)\n3. Psychological well-being outcomes of differentiated message content (出现 1 次)\n4. Misinformation correction and its boundary conditions (出现 1 次)\n5. Signal Detection Theory as a framework for assessing information processing accuracy (出现 1 次)\n6. Psychological resistance and persuasion (self-affirmation theory) in political communication (出现 1 次)\n7. Context-dependency of media effects across issue domains (war/conflict vs. immigration) (出现 1 次)\n8. Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals (出现 1 次)\n9. Resilience enactment as a communicative and symbolic practice in organizational contexts (出现 1 次)\n10. Representational networks and social media as sites for constructing organizational identity and legitimacy (出现 1 次)\n\n## 二、新兴议题\n\n- Supportive message content theory: distinction between emotion-focused and cognition-focused support\n- Mediating mechanisms underlying supportive communication effectiveness\n- Psychological well-being outcomes of differentiated message content\n- Misinformation correction and its boundary conditions\n- Signal Detection Theory as a framework for assessing information processing accuracy\n- Psychological resistance and persuasion (self-affirmation theory) in political communication\n- Context-dependency of media effects across issue domains (war/conflict vs. immigration)\n- Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals\n- Resilience enactment as a communicative and symbolic practice in organizational contexts\n- Representational networks and social media as sites for constructing organizational identity and legitimacy\n- Help-seeking as communicative behavior that challenges competence perceptions\n- Organizational communication and the paradox of vulnerability and credibility in workplace interactions\n- Social perception theory applied to workplace communication strategies\n- Political communication and democratic engagement\n- Media effects and longitudinal panel analysis\n- Methodological rigor and causal inference in communication research\n- Online conspiracy theories as form of symbolic and platformed violence\n- Digital harassment campaigns and networked antagonism\n- Media rituals and the targeting of children's television as cultural symbols\n- Affective publics and participatory hate in digital communities\n- Platform governance and the amplification of conspiratorial harm\n- Mediatization of organized crime: How legacy and social media platforms co-construct and amplify criminal mythology and narratives about gangs\n- Cultural stickiness and memetic diffusion: Examining how simplified, stereotypical gang narratives persist and circulate across platforms through 'memetic monikers'\n- Platformed gatekeeping and discursive hybridization: The interplay between legacy news media logic and TikTok's participatory, remix culture in shaping public understandings of gang violence\n- Digital colonialism and racialized violence in the Global South\n- Technology-facilitated violence (TFV) as an extension of systemic racism\n- Activist resistance and digital security in conflict-affected regions\n- Gender performativity and digital media\n- Technology-facilitated gender-based violence\n- Perpetrator perspectives in image-based sexual abuse\n- Platform affordances and folklore: how users mythologize or construct folk narratives around platform features and constraints during states of exception\n- Internet shutdowns as biopolitical governance: state power, infrastructural control, and the spatial/platform-specific targeting of connectivity during civil unrest\n- Truth, epistemology, and visibility under digital censorship: the reconfiguration of knowledge, community belonging, and precarity in mediated environments during infrastructure blackouts\n- Transnational digital hostility and participatory warfare\n- Deconstruction of academic expertise in conflict research\n- Netnographic/autoethnographic approaches to studying online-offline violence\n- Platform governance and content moderation discourse\n- Hegemonic masculinity and gendered power asymmetries in digital spaces\n- Marginalized streamer precarity and algorithmic (in)justice\n- Terrorism as self-documented spectacle and the weaponization of wearable media for political violence\n- Moral challenges of decentralized digital platforms in moderating and distributing extremist content\n- Erosion of traditional journalistic and ethical gatekeeping in the age of direct-to-audience atrocity footage\n- Memetic misogyny as a form of implicit, polysemous and ephemeral visual gender-based hate\n- Contextual factors and platform ecologies shaping meaning-making in digital hate communication\n- Barthesian mythologies and semiotic analysis of visual digital artifacts\n- Feminist ethnographic approaches to studying networked gender-based violence\n- The tension between humor/meme culture and misogyny in digital spaces\n- Platform governance and memory politics\n- Normative dislocation as a theoretical framework\n- Moderation failures and historical violence in electoral contexts\n- Digital methods and platform power in non-Western settings\n- Journalistic discourse and media framing of technology industry crises\n- Socio-technical imaginaries and the myth of Big Tech infallibility\n- Political economy of digital labor and tech sector restructuring\n- Mediated visibility and sensory hierarchies in digital platforms\n- Blindness, embodiment and accessibility in visually-dominant media environments\n- The paradox of visuality in participatory video cultures\n- Algorithmic gender representation and bias in generative AI systems\n- Sociotechnical reproduction of gender stereotypes through AI mediation\n- Platform-level variation in AI fairness and diversity of outputs\n- Intersectional feminist theory and digital activism\n- Neoliberal self-actualization discourse in algorithmic platform economies\n- Critical discourse analysis of allyship performances on social media\n- Digital disconnection and selective avoidance as political practices\n- Platform-mediated political polarization and public sphere fragmentation\n- Cross-cultural dynamics of incivility and partisanship on social media\n- Subjective appraisal and contextual meaning-making in media effects research\n- The role of social media in sleep health and well-being\n- Everyday media practices and temporal dimensions of technology use\n- Digital intimacy and parasocial relationships in creator-audience dynamics\n- Platform-specific self-presentation strategies and identity negotiation across media\n- Monetization of creative labor through crowdfunding and patronage economies\n- Epistemic power and knowledge structuring by generative AI\n- AI-centered platform convergence and infrastructure integration\n- Sociological theory of technological authority and legitimacy\n- Human-machine communication and power dynamics\n- Critical analysis of AI as knowledge agents in digital ecosystems\n- Algorithmic precarity and platform governance in sociopolitical contexts\n- Ethnoreligious identity construction and visibility negotiation on social media\n- Content creator labor as adaptive, event-driven strategic practice\n- Problem framing theory and its consequences for policy/intervention design\n- Critical reexamination of misinformation discourse and dominant narratives\n- Sociological and systemic approaches to information disorders\n- Platform governance and accountability in mental health contexts\n- User responsibility and literacy in navigating sensitive content\n- Trauma-informed design and the dual-affordance of social media (support vs. retraumatization)\n- Commodification of identity and racialized bodies in digital economies\n- Intersectional racework and gendered labor in interracial relationships\n- Platform-mediated visibility of whiteness, respectability, and aspirational domesticity\n- Digital religion and networked religious authority (liquid authority in online Islamic spaces)\n- Everyday influencers vs. professional religious authorities in digital contexts\n- Youth religious identity formation and practice in new media environments\n- Intersectionality and compounded marginalization in online political spaces\n- Online harassment as a deterrent to political engagement\n- Religious and gender identity as intersecting axes of vulnerability in digital politics\n- Negative political campaigning strategies and their adaptation across digital platforms\n- Multi-platform political communication and temporal dynamics of campaign behavior\n- Supply-demand dynamics in political messaging and voter engagement\n- Platform-mediated maternal subjectivity and digital victimhood\n- Affective labor and commodification of pain in creator economies\n- Gendered self-representation and platformed intimacy on social media\n- Media effects and psychological well-being: The theoretical tension between smartphones as stressors versus buffers, drawing on media effects theories to explain dual pathways of technology influence on adolescent mental health\n- Mobile communication and adolescent development: The role of smartphone use in shaping daily affective experiences and coping mechanisms during a formative developmental period\n- Ecological momentary assessment of digital media use: Applying intensive longitudinal methods to capture real-time, within-person relationships between smartphone behavior and psychological states\n- Institutional logics and moral economy in accessibility work\n- Disability studies and social inclusion in digital media industries\n- Organizational justification and decision-making under competing institutional pressures\n- Parasocial intimacy and affective bonds in human-AI/character interactions\n- Authenticity construction in mediated romantic relationships\n- Gender, agency, and emotional labor in digital gameplay cultures\n- Interface control as a site of geopolitical power in digital communication\n- Restructuring of communication power through algorithmic governance\n- Critical political economy of platform interfaces (search engines, social media, AI agents)\n- Platform visibility governance and algorithmic control\n- Feminist discourse navigation of gendered censorship\n- Digital labor and self-regulation of content creators\n- Consumer socialization theory\n- Reverse intergenerational influence\n- Social media as socialization agent\n- Uncertainty reduction theory extension beyond dyadic frameworks\n- Human-AI socio-emotional communication and relational dynamics\n- Communal coping strategies for technology-related ambiguity\n- Social media as identity construction and stereotype resistance\n- Visual space-making and platform affordances for marginalized groups\n- Feminist science communication and gender representation in digital spaces\n- Community building through short-form video content\n- Children's misinformation literacy and sense-making\n- Developmental reception and age-differentiated responses to false information\n- Digital media socialization and platform-based information veracity\n- News-Finds-Me perception and its implications for political knowledge acquisition\n- The role of metacognitive beliefs about information seeking in democratic citizenship\n- Intervention design and unintended consequences in media literacy education\n- Platformisation of news production and distribution\n- Erosion of topical diversity in digital news ecosystems\n- Comparative analysis of news outlet types under algorithmic curation\n- AI literacy and competency in communication education\n- Ethical frameworks for artificial intelligence in media/communication\n- Pedagogical approaches to emerging communication technologies\n- Humanistic approaches to communication and technology\n- User-centered design in mediated communication\n- The role of human agency in technological communication systems\n\n## 三、方法趋势\n\n- qualitative: 17 篇 (37.8%)\n- unknown: 16 篇 (35.6%)\n- mixed methods: 7 篇 (15.6%)\n- experimental: 3 篇 (6.7%)\n- quantitative: 2 篇 (4.4%)\n\n## 四、综合趋势判断\n\n本周期研究明显向\"Supportive message content theory: distinction between emotion-focused and cognition-focused support\"方向倾斜，Supportive message content theory: distinction between emotion-focused and cognition-focused support成为核心驱动变量。\n\n---\n\n*本报告由 n8n 自动化系统生成*",
+  "report_en": "# 本周新闻传播学研究前沿风向\n\n**分析时间**: 2026/5/1\n**文章总数**: 45\n\n## 一、热点主题排行\n\n1. Supportive message content theory: distinction between emotion-focused and cognition-focused support (出现 1 次)\n2. Mediating mechanisms underlying supportive communication effectiveness (出现 1 次)\n3. Psychological well-being outcomes of differentiated message content (出现 1 次)\n4. Misinformation correction and its boundary conditions (出现 1 次)\n5. Signal Detection Theory as a framework for assessing information processing accuracy (出现 1 次)\n6. Psychological resistance and persuasion (self-affirmation theory) in political communication (出现 1 次)\n7. Context-dependency of media effects across issue domains (war/conflict vs. immigration) (出现 1 次)\n8. Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals (出现 1 次)\n9. Resilience enactment as a communicative and symbolic practice in organizational contexts (出现 1 次)\n10. Representational networks and social media as sites for constructing organizational identity and legitimacy (出现 1 次)\n\n## 二、新兴议题\n\n- Supportive message content theory: distinction between emotion-focused and cognition-focused support\n- Mediating mechanisms underlying supportive communication effectiveness\n- Psychological well-being outcomes of differentiated message content\n- Misinformation correction and its boundary conditions\n- Signal Detection Theory as a framework for assessing information processing accuracy\n- Psychological resistance and persuasion (self-affirmation theory) in political communication\n- Context-dependency of media effects across issue domains (war/conflict vs. immigration)\n- Hybrid organizing and institutional logics in organizations pursuing dual/multiple goals\n- Resilience enactment as a communicative and symbolic practice in organizational contexts\n- Representational networks and social media as sites for constructing organizational identity and legitimacy\n- Help-seeking as communicative behavior that challenges competence perceptions\n- Organizational communication and the paradox of vulnerability and credibility in workplace interactions\n- Social perception theory applied to workplace communication strategies\n- Political communication and democratic engagement\n- Media effects and longitudinal panel analysis\n- Methodological rigor and causal inference in communication research\n- Online conspiracy theories as form of symbolic and platformed violence\n- Digital harassment campaigns and networked antagonism\n- Media rituals and the targeting of children's television as cultural symbols\n- Affective publics and participatory hate in digital communities\n- Platform governance and the amplification of conspiratorial harm\n- Mediatization of organized crime: How legacy and social media platforms co-construct and amplify criminal mythology and narratives about gangs\n- Cultural stickiness and memetic diffusion: Examining how simplified, stereotypical gang narratives persist and circulate across platforms through 'memetic monikers'\n- Platformed gatekeeping and discursive hybridization: The interplay between legacy news media logic and TikTok's participatory, remix culture in shaping public understandings of gang violence\n- Digital colonialism and racialized violence in the Global South\n- Technology-facilitated violence (TFV) as an extension of systemic racism\n- Activist resistance and digital security in conflict-affected regions\n- Gender performativity and digital media\n- Technology-facilitated gender-based violence\n- Perpetrator perspectives in image-based sexual abuse\n- Platform affordances and folklore: how users mythologize or construct folk narratives around platform features and constraints during states of exception\n- Internet shutdowns as biopolitical governance: state power, infrastructural control, and the spatial/platform-specific targeting of connectivity during civil unrest\n- Truth, epistemology, and visibility under digital censorship: the reconfiguration of knowledge, community belonging, and precarity in mediated environments during infrastructure blackouts\n- Transnational digital hostility and participatory warfare\n- Deconstruction of academic expertise in conflict research\n- Netnographic/autoethnographic approaches to studying online-offline violence\n- Platform governance and content moderation discourse\n- Hegemonic masculinity and gendered power asymmetries in digital spaces\n- Marginalized streamer precarity and algorithmic (in)justice\n- Terrorism as self-documented spectacle and the weaponization of wearable media for political violence\n- Moral challenges of decentralized digital platforms in moderating and distributing extremist content\n- Erosion of traditional journalistic and ethical gatekeeping in the age of direct-to-audience atrocity footage\n- Memetic misogyny as a form of implicit, polysemous and ephemeral visual gender-based hate\n- Contextual factors and platform ecologies shaping meaning-making in digital hate communication\n- Barthesian mythologies and semiotic analysis of visual digital artifacts\n- Feminist ethnographic approaches to studying networked gender-based violence\n- The tension between humor/meme culture and misogyny in digital spaces\n- Platform governance and memory politics\n- Normative dislocation as a theoretical framework\n- Moderation failures and historical violence in electoral contexts\n- Digital methods and platform power in non-Western settings\n- Journalistic discourse and media framing of technology industry crises\n- Socio-technical imaginaries and the myth of Big Tech infallibility\n- Political economy of digital labor and tech sector restructuring\n- Mediated visibility and sensory hierarchies in digital platforms\n- Blindness, embodiment and accessibility in visually-dominant media environments\n- The paradox of visuality in participatory video cultures\n- Algorithmic gender representation and bias in generative AI systems\n- Sociotechnical reproduction of gender stereotypes through AI mediation\n- Platform-level variation in AI fairness and diversity of outputs\n- Intersectional feminist theory and digital activism\n- Neoliberal self-actualization discourse in algorithmic platform economies\n- Critical discourse analysis of allyship performances on social media\n- Digital disconnection and selective avoidance as political practices\n- Platform-mediated political polarization and public sphere fragmentation\n- Cross-cultural dynamics of incivility and partisanship on social media\n- Subjective appraisal and contextual meaning-making in media effects research\n- The role of social media in sleep health and well-being\n- Everyday media practices and temporal dimensions of technology use\n- Digital intimacy and parasocial relationships in creator-audience dynamics\n- Platform-specific self-presentation strategies and identity negotiation across media\n- Monetization of creative labor through crowdfunding and patronage economies\n- Epistemic power and knowledge structuring by generative AI\n- AI-centered platform convergence and infrastructure integration\n- Sociological theory of technological authority and legitimacy\n- Human-machine communication and power dynamics\n- Critical analysis of AI as knowledge agents in digital ecosystems\n- Algorithmic precarity and platform governance in sociopolitical contexts\n- Ethnoreligious identity construction and visibility negotiation on social media\n- Content creator labor as adaptive, event-driven strategic practice\n- Problem framing theory and its consequences for policy/intervention design\n- Critical reexamination of misinformation discourse and dominant narratives\n- Sociological and systemic approaches to information disorders\n- Platform governance and accountability in mental health contexts\n- User responsibility and literacy in navigating sensitive content\n- Trauma-informed design and the dual-affordance of social media (support vs. retraumatization)\n- Commodification of identity and racialized bodies in digital economies\n- Intersectional racework and gendered labor in interracial relationships\n- Platform-mediated visibility of whiteness, respectability, and aspirational domesticity\n- Digital religion and networked religious authority (liquid authority in online Islamic spaces)\n- Everyday influencers vs. professional religious authorities in digital contexts\n- Youth religious identity formation and practice in new media environments\n- Intersectionality and compounded marginalization in online political spaces\n- Online harassment as a deterrent to political engagement\n- Religious and gender identity as intersecting axes of vulnerability in digital politics\n- Negative political campaigning strategies and their adaptation across digital platforms\n- Multi-platform political communication and temporal dynamics of campaign behavior\n- Supply-demand dynamics in political messaging and voter engagement\n- Platform-mediated maternal subjectivity and digital victimhood\n- Affective labor and commodification of pain in creator economies\n- Gendered self-representation and platformed intimacy on social media\n- Media effects and psychological well-being: The theoretical tension between smartphones as stressors versus buffers, drawing on media effects theories to explain dual pathways of technology influence on adolescent mental health\n- Mobile communication and adolescent development: The role of smartphone use in shaping daily affective experiences and coping mechanisms during a formative developmental period\n- Ecological momentary assessment of digital media use: Applying intensive longitudinal methods to capture real-time, within-person relationships between smartphone behavior and psychological states\n- Institutional logics and moral economy in accessibility work\n- Disability studies and social inclusion in digital media industries\n- Organizational justification and decision-making under competing institutional pressures\n- Parasocial intimacy and affective bonds in human-AI/character interactions\n- Authenticity construction in mediated romantic relationships\n- Gender, agency, and emotional labor in digital gameplay cultures\n- Interface control as a site of geopolitical power in digital communication\n- Restructuring of communication power through algorithmic governance\n- Critical political economy of platform interfaces (search engines, social media, AI agents)\n- Platform visibility governance and algorithmic control\n- Feminist discourse navigation of gendered censorship\n- Digital labor and self-regulation of content creators\n- Consumer socialization theory\n- Reverse intergenerational influence\n- Social media as socialization agent\n- Uncertainty reduction theory extension beyond dyadic frameworks\n- Human-AI socio-emotional communication and relational dynamics\n- Communal coping strategies for technology-related ambiguity\n- Social media as identity construction and stereotype resistance\n- Visual space-making and platform affordances for marginalized groups\n- Feminist science communication and gender representation in digital spaces\n- Community building through short-form video content\n- Children's misinformation literacy and sense-making\n- Developmental reception and age-differentiated responses to false information\n- Digital media socialization and platform-based information veracity\n- News-Finds-Me perception and its implications for political knowledge acquisition\n- The role of metacognitive beliefs about information seeking in democratic citizenship\n- Intervention design and unintended consequences in media literacy education\n- Platformisation of news production and distribution\n- Erosion of topical diversity in digital news ecosystems\n- Comparative analysis of news outlet types under algorithmic curation\n- AI literacy and competency in communication education\n- Ethical frameworks for artificial intelligence in media/communication\n- Pedagogical approaches to emerging communication technologies\n- Humanistic approaches to communication and technology\n- User-centered design in mediated communication\n- The role of human agency in technological communication systems\n\n## 三、方法趋势\n\n- qualitative: 17 篇 (37.8%)\n- unknown: 16 篇 (35.6%)\n- mixed methods: 7 篇 (15.6%)\n- experimental: 3 篇 (6.7%)\n- quantitative: 2 篇 (4.4%)\n\n## 四、综合趋势判断\n\n本周期研究明显向\"Supportive message content theory: distinction between emotion-focused and cognition-focused support\"方向倾斜，Supportive message content theory: distinction between emotion-focused and cognition-focused support成为核心驱动变量。\n\n---\n\n*本报告由 n8n 自动化系统生成*"
 }
